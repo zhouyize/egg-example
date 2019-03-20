@@ -1,0 +1,26 @@
+{
+  "name": "egg-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouyize/egg-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouyize/egg-example/issues"
+  },
+  "homepage": "https://github.com/zhouyize/egg-example#readme",
+  "dependencies": {
+    "egg": "^2.20.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.12.0"
+  }
+}
